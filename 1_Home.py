@@ -13,7 +13,7 @@ if "data" not in st.session_state:
                                                 on_bad_lines="skip", dtype=str)
 
 # Configuração da página
-st.set_page_config(page_title="Dashboard para Microsoft", layout="wide")
+st.set_page_config(page_title="Dashboard para Microsoft",page_icon="🏠", layout="wide"  )
 st.sidebar.markdown("Desenvolvido por Isabela Barcellos [linkedin](https://www.linkedin.com/in/isabela-barcellos-freire-91263328a/)") #colocar link do linkedin
 
 # Adicionando logo com streamlit-extras
