@@ -1,0 +1,6 @@
+import streamlit as st
+st.title("Skills")
+
+st.image("Skills.jpg", width=600) #foto
+
+st.write("Sou uma profissional comunicativa, organizada e focada no trabalho em equipe. Minha facilidade de comunicação me permite interagir de forma clara e eficiente, seja para compartilhar ideias, colaborar com colegas ou entender as necessidades dos clientes e stakeholders. Além disso, minha capacidade de organização me ajuda a gerenciar múltiplas responsabilidades ao mesmo tempo, garantindo que prazos sejam cumpridos e que os processos ocorram de forma estruturada.No ambiente de trabalho e acadêmico, valorizo muito a colaboração. Gosto de construir soluções junto com a equipe, ouvindo diferentes perspectivas e contribuindo para um ambiente produtivo e motivador. Tenho experiência com metodologias ágeis, o que fortalece minha adaptabilidade e aprendizado contínuo.Além das soft skills, possuo conhecimentos técnicos em Banco de Dados, Angular, JavaScript, C# e Java, além de análise estatística para extração de insights a partir de dados. Busco sempre aprimorar minhas habilidades, explorando novas tecnologias e práticas para desenvolver soluções eficientes e acessíveis.Com essa combinação de habilidades interpessoais e técnicas, estou preparada para enfrentar desafios e agregar valor aos projetos dos quais faço parte.")

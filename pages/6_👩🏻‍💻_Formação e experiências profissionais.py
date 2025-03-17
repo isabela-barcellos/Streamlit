@@ -1,0 +1,6 @@
+import streamlit as st
+st.title("Formação e experiências profissionais")
+
+st.image("Formacao_experiencia.jpg", width=500) #foto
+
+st.write("Atualmente, curso Engenharia de Software e atuo como estagiária na área de Canais Digitais do Banco Safra. Meu trabalho é focado no desenvolvimento frontend, mas também possuo experiência em projetos envolvendo Banco de Dados, Backend e APIs.Além da minha experiência no setor bancário, já trabalhei informalmente em um escritório de contabilidade, onde desenvolvi habilidades organizacionais e administrativas. Também atuei na criação de conteúdos para redes sociais de uma clínica de psicologia, o que ampliou minha visão sobre comunicação digital e marketing.Para complementar minha formação acadêmica, realizo cursos extras para aprofundar meus conhecimentos em tecnologia e desenvolvimento de software, buscando sempre me atualizar com as melhores práticas do mercado.Essas experiências me proporcionaram um olhar versátil sobre tecnologia e negócios, fortalecendo minha capacidade de adaptação e aprendizado contínuo. Busco sempre aprimorar minhas habilidades técnicas e interpessoais para agregar valor aos projetos dos quais faço parte.")
